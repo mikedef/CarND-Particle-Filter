@@ -92,8 +92,8 @@ If your particle filter passes the current grading code in the simulator then yo
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
-![alt text](UKF-lidar-radar.png)
-UKF with Radar and Lidar Measurements
+![alt text](finished_screenshot.png)
+Passed screenshot 
 
 
 
